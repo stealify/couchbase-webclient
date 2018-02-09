@@ -1,0 +1,19 @@
+{
+  "name": "couchbase-webclient",
+  "version": "0.0.1",
+  "description": "A Couchbase Client for Web and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stealify/couchbase-webclient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stealify/couchbase-webclient/issues"
+  },
+  "homepage": "https://github.com/stealify/couchbase-webclient#readme"
+}
